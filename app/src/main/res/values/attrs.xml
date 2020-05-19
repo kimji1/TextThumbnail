@@ -2,7 +2,7 @@
 <resources>
     <declare-styleable name="Thumbnail">
         <attr name="text" format="reference|string" />
-        <attr name="textColor" format="integer" />
+        <attr name="textColor" format="reference|color" />
         <attr name="textSize" format="float" />
         <attr name="iconDrawable" format="integer" />
     </declare-styleable>
